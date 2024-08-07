@@ -1,9 +1,10 @@
 # Data Scientist
-Technical Skills: Python,JAVA, SQL/PLSQL,AWS 
+Technical Skills: Python, JAVA, SQL/PLSQL, AWS 
 
 ### Education
 
 M.S., Computer Science | Sukkur IBA University (December 2021)
+<br>
 B.S., Computer Science | Sukkur IBA (March 2016)
 ### Work Experience
 
