@@ -8,4 +8,6 @@ M.S., Computer Science | Sukkur IBA University (December 2021)
 B.S., Computer Science | Sukkur IBA (March 2016)
 ### Work Experience
 
+Lecturer @ IBA IET Sukkur IBA University Khairpur Campus (June 2018 - Present)
+
 ### Publications
