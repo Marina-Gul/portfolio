@@ -1,5 +1,35 @@
 title: Marina Gul
+email: marina.gul@iba-suk.edu.pk
 logo: /assets/img/logo.png
-description: Data Scientist
+description: # Data Scientist
+  This is my personal website where I showcase my projects and research.
+url: "https://marina-gul.github.io/portfolio" # Your website URL
 show_downloads: false
 theme: jekyll-theme-minimal
+
+
+
+
+# Build settings
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+
+# Author settings
+author:
+  name: Marina Gul
+  email: marina.gul@iba-suk.edu.pk
+  bio: A brief bio about yourself
+  location: Your City, Your Country
+  github: https://github.com/your-username
+  twitter: your-twitter-handle
+  linkedin: your-linkedin-handle
+
+# Optional social links
+social:
+  github: your-username
+  linkedin: your-linkedin-handle
+  twitter: your-twitter-handle
+
+# Pagination
+paginate: 5 # Number of posts per page
