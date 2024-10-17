@@ -13,6 +13,7 @@ As AI systems become increasingly integral to decision-making processes, I am de
 
 ## Education
   -M.S., Computer Science | Sukkur IBA University (December 2021)
+  <br>
   -B.S., Computer Science | Sukkur IBA (March 2016)
 
 ## Work Experience
